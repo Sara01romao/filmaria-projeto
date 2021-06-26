@@ -1,10 +1,16 @@
 import React from 'react';
 
+import './style.css';
+import Routes from './routes';
+
 
 export default function App(){
   return(
-    <div>
-      <h1>Filmaria</h1>
+    <div className="app">
+      <Routes/>
     </div>
-  )
+  );
 }
+
+
+//https://sujeitoprogramador.com/r-api/?api=filmes/

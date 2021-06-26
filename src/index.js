@@ -8,5 +8,3 @@ ReactDOM.render(  <App />, document.getElementById('root'));
 
 
 
-
-//https://sujeitoprogramador.com/r-api/?api=filmes/
