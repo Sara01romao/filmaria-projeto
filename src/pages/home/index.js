@@ -38,7 +38,7 @@ export default function Home(){
 
                     <img src={filme.foto} alt={filme.nome}/>
 
-                    <Link to="/">Acessar</Link>
+                    <Link to={`/filme/${filme.id}`}>Acessar</Link>
 
 
                   </article>

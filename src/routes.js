@@ -1,6 +1,7 @@
 import { BrowserRouter, Route, Switch } from "react-router-dom";
 
 import Home from './pages/home'
+import Filme from './pages/filme';
 
 import Header from './pages/components/Header'
 
@@ -10,6 +11,7 @@ const Routes =() =>{
             <Header/>
             <Switch>
                 <Route exact path="/" component={Home}/>
+                <Route exact path="/filme/:id" component={Filme}/>
             </Switch>
         
         </BrowserRouter>
