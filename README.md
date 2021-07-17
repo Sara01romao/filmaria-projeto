@@ -1,3 +1,16 @@
+
+
+
+
+
+# Sobre o Projeto
+
+
+Esse projeto foi desenvolvido durante o Curso de React Js Do Zero Ao Avançado Na Prática. Abordando varíos conceitos como rotas e uso de api. 06/2020
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
